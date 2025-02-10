@@ -1,7 +1,7 @@
-const  WEBSITE_NAME = "Happy Littles Clothing Outlet";
-const WEBSITE_DESCRIPTION = 'Children, regardless of gender, shared styles and cuts before the twentieth century. From the sixteenth to the twentieth centuries, both men and women wore gowns, tunics, and robes. The gown became a thing for women, newborns, and toddlers only after men attire evolved into two-piece clothes, shirts, and breeches. Children styles evolved from gowns to adult garments as they grew older.';
+const  WEBSITE_NAME = "Toy Shop";
+const WEBSITE_DESCRIPTION = 'A toy shop is a retail business that sells toys. Toys can help children develop their cognitive and motor skills, and also help them learn to share and cooperate. What can you find at a toy shop? Toys for children of all ages, Gift items, Stationery, and Sports equipment. Some toy shop names Toy Bazaar, Little Dreamers, Playtime Palace, The Toy Vault, and Kiddie Corner. ';
 const HEADER_IMG = 
-"https://img.freepik.com/free-photo/little-customer-standing-store-choosing-new-dresses_7502-4255.jpg?t=st=1738677719~exp=1738681319~hmac=01947b2d2fb2b48eb2f9d216f5b354e8726eb0a4de762a5720f1a94044c413d5&w=740";
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5rMZvP6DVm309I7wbfj1XLvA8rkSZ0ZZ72A&s";
 
 const BUTTON1 = "By Now";
 const BUTTON2 = "Contact Us";
